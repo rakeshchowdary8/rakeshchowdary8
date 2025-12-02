@@ -6,7 +6,7 @@
 👯 I’m looking to collaborate on Web development and AI projects<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about C and C++<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshchowdary8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RAKESHC21091142) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshchowdaryv7@gmail.com) 
 
 # 💻 Tech Stack:
